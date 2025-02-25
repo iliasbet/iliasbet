@@ -4,7 +4,7 @@
 - **Dreamer**: Often lost in thought, always exploring new ideas.
 - **Curious**: I love to go on rabbit holes over various subjects. 
 
-🔥 Lately, I'm diving deep into advanced AI techniques. I'm focusing on mastering **Transformers**, **Reinforcement Learning (RL)**, **Distillation** (s/o DeepSeek), and **Prompting** (espacially neurolinguistics)
+🔥 Lately, I'm diving deep into advanced AI techniques. I'm focusing on mastering **Transformers**, **Reinforcement Learning**, **Distillation** (s/o DeepSeek), and **Prompting** (espacially neurolinguistics)
 
 👉 See my latest project LAODL!
 
